@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 s
 added this line
 for rebasing
+more cahnges from myfeture branch too
 
 ## Purpose
 s
