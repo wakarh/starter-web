@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 s
 added this line
+for rebasing
 
 ## Purpose
 s
